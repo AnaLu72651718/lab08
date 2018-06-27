@@ -1,0 +1,27 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url(fondo.jpg);
+	background-size: 100wn 100wh;
+	background-attachment: fixed;
+	margin: 0;
+	font-family: monospace;
+}
+
+footer {
+	position: relative;
+	margin-top: 50px;
+	height: 60px;
+	padding: 5px 0px;
+	clear: both;
+	background: #f2d8ea;
+	text-align: center;
+	color: black;
+}
